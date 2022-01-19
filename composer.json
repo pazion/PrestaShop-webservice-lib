@@ -1,6 +1,6 @@
 {
-  "name": "prestashop/prestashop-webservice-lib",
-  "description": "PrestaShop Webservice access library",
+  "name": "presta/prestashop-webservice-lib",
+  "description": "PrestaShop Webservice access library, fork from prestashop/prestashop-webservice-lib",
   "license": "OSL-3.0",
   "authors": [
     {
