@@ -1,5 +1,5 @@
 {
-  "name": "presta/prestashop-webservice-lib",
+  "name": "pazion/prestashop-webservice-lib",
   "description": "PrestaShop Webservice access library, fork from prestashop/prestashop-webservice-lib",
   "license": "OSL-3.0",
   "authors": [
